@@ -60,7 +60,7 @@
   - 단지에 매우 종속적인 것처럼 보인다.
   - Null 없음
 - tallest_building_in_sites
-  - 이산형
+  - Null 조금, 이산형
   - 의미 : 얼마나 고층 빌딩이냐?
   - 단지와 크게 붙는 속성일 듯
 - total_household_count_of_area_type
@@ -107,6 +107,7 @@
   - Null 좀 있음, 이산형
     - 같은 전용면적, 공급면적으로 추론
 - front_door_structure
+  - Null, cat
   - ***정확하게 무엇을 의미하는지 불분명***
     - 집 현관 말고 아파트 복도를 말하는 건가?
       아니면 집 바닥이 한층 올라와서 구별되어 있는 거?
